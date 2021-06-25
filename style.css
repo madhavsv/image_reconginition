@@ -1,0 +1,9 @@
+body {
+    background-image: linear-gradient(gray,blue,red);
+    color: greenyellow;
+}
+#scr {
+    width: 300;
+    height: 300;
+    overflow: scroll;
+}
